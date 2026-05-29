@@ -21,4 +21,4 @@ while True:
         break
 print(f'O total gasto foi de R${gastTot:.2f}.')
 print(f'Ao todo tem {prodMil} produtos que custaram mais de R$1000.')
-print(f'O produto mais barato foi {barato} e custou {prodBara}')
+print(f'O produto mais barato foi {barato} e custou R${prodBara}')
